@@ -1,4 +1,5 @@
 katz_deli = []
+other_deli = ["Logan", "Avi", "Spencer"]
 
 def line(katz_deli)
  while katz_deli.empty? == true
@@ -9,3 +10,5 @@ def line(katz_deli)
  end
 end
 
+katz_deli(name, i)
+other_deli(name, i)
